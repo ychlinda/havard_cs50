@@ -12,7 +12,9 @@ Problem sets inspired by the arts, humanities, social sciences, and sciences. Co
 
 ## Assignments
 - Readability: readability.c
+
 Design and implement a program, readability, that computes the Coleman-Liau index of the text.
 
 - Credit Card Number Check: credit.c
+
 Write a program that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number, based on Luhn's algorithm. 
