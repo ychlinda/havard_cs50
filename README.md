@@ -11,10 +11,6 @@ Languages include C, Python, and SQL plus students’ choice of: HTML, CSS, and 
 Problem sets inspired by the arts, humanities, social sciences, and sciences. Course culminates in a final project. Designed for concentrators and non-concentrators alike, with or without prior programming experience. 
 
 ## Assignments
-- Readability: readability.c
+- readability.c: Design and implement a program, readability, that computes the Coleman-Liau index of the text.
 
-Design and implement a program, readability, that computes the Coleman-Liau index of the text.
-
-- Credit Card Number Check: credit.c
-
-Write a program that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number, based on Luhn's algorithm. 
+- credit.c (Credit Card Number Check): Write a program that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number, based on Luhn's algorithm. 
