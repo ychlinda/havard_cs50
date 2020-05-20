@@ -14,3 +14,8 @@ Problem sets inspired by the arts, humanities, social sciences, and sciences. Co
 - readability.c: Design and implement a program, readability, that computes the Coleman-Liau index of the text.
 
 - credit.c (Credit Card Number Check): Write a program that prompts the user for a credit card number and then reports whether it is a valid American Express, MasterCard, or Visa card number, based on Luhn's algorithm. 
+
+- substitution.c: Design and implement a program, substitution, that encrypts messages using a substitution cipher. 
+
+Concretely, the program must accept a single command-line argument, the key to use for the substitution. 
+The key itself should be case-insensitive, so whether any character in the key is uppercase or lowercase should not affect the behavior of your program.
